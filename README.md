@@ -1,22 +1,19 @@
-## Hi there👋
-
-### I'm Arslan Mushtaq a.k.a ARK
+### Hi!
 
 ### About Me
-I'm a Computer Engineer who loves to experiement with Technology. Currently, an Android App Developer who developed two apps which are on Google Play. I love to talk about tech and I've spoken on Firebase, Git/GitHub, Android with Kotlin/Java, and many more topics. Connect with me at m.arslanmushtaqahmed@gmail.com
+I'm a computer engineer who loves to experiement with Technology. Currently, a **Mobile/Web Developer & Graphic Designer**. I love to talk about tech and I've spoken on **Firebase**, **Git/GitHub**, **Android with Kotlin/Java**, and many more topics. Check out my [portfolio](https://designbyark.com/) and contact me at arslanark@gmail.com for any queries.
 
-
-<!--
-**mrarslanark/mrarslanark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies I use
+- **Web**
+  - ReactJS
+  - NodeJS
+- **Mobile**
+  - React Native (Hybrid Development)
+  - Kotlin/Java (Native Android Development)
+  - Swift (Native iOS Development)
+- **Cloud Services**
+  - Firebase
+  - Amazon
+  
+### Connect with me
+[Facebook](https://www.facebook.com/devmrark/) | [Twitter](https://www.twitter.com/mrarslanark/)
