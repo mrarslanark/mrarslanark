@@ -5,13 +5,14 @@ I'm a computer engineer who loves to experiement with Technology. Currently, a *
 - **Web** 🌎
   - ReactJS
   - NodeJS
+  - ExpressJS
 - **Mobile** 📱
   - React Native (Hybrid Development)
   - Kotlin/Java (Native Android Development)
   - Swift (Native iOS Development)
 - **Cloud Services** ☁️
   - Firebase
-  - Amazon
+  - Amazon Web Services
   
 ### Connect with me
 [Facebook](https://www.facebook.com/devmrark/) | [Twitter](https://www.twitter.com/mrarslanark/)
