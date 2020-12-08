@@ -4,8 +4,8 @@ I'm a computer engineer who loves to experiement with Technology. Currently, a *
 ### Technologies I use
 - **Web** 🌎
   - ReactJS
+  - HTML/CSS
   - NodeJS
-  - ExpressJS
 - **Mobile** 📱
   - React Native (Hybrid Development)
   - Kotlin/Java (Native Android Development)
@@ -13,6 +13,7 @@ I'm a computer engineer who loves to experiement with Technology. Currently, a *
 - **Cloud Services** ☁️
   - Firebase
   - Amazon Web Services
+  - MongoDB
   
 ### Connect with me
 [Facebook](https://www.facebook.com/devmrark/) | [Twitter](https://www.twitter.com/mrarslanark/)
