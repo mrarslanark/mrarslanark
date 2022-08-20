@@ -1,23 +1,7 @@
-### Hi,
-I'm a computer engineer who loves to experiement with Technology. Currently, a **Full Stack Developer**. I love to talk about tech and I've spoken on **Firebase**, **Git/GitHub**, **Android**, and many more topics. Contact me at arslanark@gmail.com for any queries.
 
-## Tech Stack
-### **Front-end technologies**
-- HTML, CSS, SCSS, ReactJS, Angular, Vue.js
-### **Back-end technologies**
-- NodeJS, ExpressJS, Ruby on Rails, Django, Flask, Docker, Firebase, AWS, Microsoft Azure
-### **Databases/Storages**
-- MySQL, SQLite, MongoDB, Redis, AWS DynamoDB
-### **Mobile Development**
-- Android, iOS, React Native (Hybrid)
-### **CI/CD tools**
-- CircleCI, Jenkins
-### **Testing tools**
-- Appium (iOS), Espresso (Android), JEST, Mocha
+### Hi, I am [Arslan Mushtaq](arslanark@gmail.com) aka ARK
+
+A software developer living in Pakistan 🇵🇰. Currently, a **Principle Software Enginner**. I love to talk about tech and I've spoken on different topics like **Cloud Services**, **Version Control**, **Mobile Development**, and more. My core expertise include **MERN Stack**, **Hybrid/Native Mobile Development** and **DevOps**. 
 
 
-## Hobbies
-- Travelling, Music, Coding and Swimming
-
-### Connect with me
-[Facebook](https://www.facebook.com/devmrark/) | [Twitter](https://www.twitter.com/mrarslanark/) | [DevDen](https://devden.org/)
+[Portfolio](https://arslanmushtaq.com/)  | [Facebook](https://www.facebook.com/devmrark/) | [Twitter](https://www.twitter.com/mrarslanark/) | [LinkedIn](https://linkedin.com/in/mrarslanark)
