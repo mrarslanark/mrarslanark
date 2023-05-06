@@ -1,7 +1,7 @@
 
-### Hi, I am [Arslan Mushtaq](arslanark@gmail.com) aka ARK
+### Hi, I am [Arslan Mushtaq]([arslanark@gmail.com](http://arslanmushtaq.com/)) aka ARK
 
-A software developer living in Pakistan 🇵🇰. Currently, a **Principle Software Enginner**. I love to talk about tech and I've spoken on different topics like **Cloud Services**, **Version Control**, **Mobile Development**, and more. My core expertise include **MERN Stack**, **Hybrid/Native Mobile Development** and **DevOps**. 
+A highly skilled software developer with 6+ years of experience in mobile and web development, proficient in technologies such as React Native, Native Android, and iOS for mobile, and React.js and Next.js for web development. Additional expertise in backend technologies including Node.js, Express.js, Amazon Web Services, and Google Firebase, facilitating collaboration with cross-functional teams across various domains. Based in the United Arab Emirates, originally from Pakistan.
 
 
-[Portfolio](https://arslanmushtaq.com/)  | [Facebook](https://www.facebook.com/devmrark/) | [Twitter](https://www.twitter.com/mrarslanark/) | [LinkedIn](https://linkedin.com/in/mrarslanark)
+[Facebook](https://www.facebook.com/devmrark) | [Twitter](https://www.twitter.com/mrarslanark) | [LinkedIn](https://linkedin.com/in/mrarslanark)
